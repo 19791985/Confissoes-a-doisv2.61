@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Confissões a Dois</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+
+<body>
+  <section id="title-screen">
+    <h1>Confissões a Dois</h1>
+    <button id="start-btn">Começar</button>
+  </section>
+
+  <section id="intro" class="hidden">
+    <h2>Introdução</h2>
+    <p>Este é um quiz íntimo e divertido para explorar o teu lado emocional, sexual e psicológico em casal.</p>
+    <button id="intro-start-btn">Começar o Quiz</button>
+  </section>
+
+  <section id="question-screen" class="hidden">
+    <h2 id="question"></h2>
+    <div id="answers"></div>
+  </section>
+
+  <section id="phase-summary" class="hidden">
+    <h2>Resumo da Fase</h2>
+    <p id="phase-summary-text"></p>
+    <button id="next-phase-btn">Avançar para a próxima fase</button>
+  </section>
+
+  <section id="result" class="hidden">
+    <h2>Resultado Final</h2>
+    <div id="final-summary-text"></div>
+    <button id="share-whatsapp">Partilhar no WhatsApp</button>
+    <button id="copy-link">Copiar Link</button>
+    <button id="send-email">Enviar por Email</button>
+  </section>
+
+  <script src="https://cdn.emailjs.com/dist/email.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
