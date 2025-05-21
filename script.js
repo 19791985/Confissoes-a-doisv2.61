@@ -356,5 +356,305 @@ const questions = [
       { text: "Do teu abraço sem pressa", value: "emocao" }
     ]
   },
+{
+    question: "21. Quando sentes desejo de mim do nada?",
+    answers: [
+      { text: "Ao lembrar do teu cheiro", value: "desejo" },
+      { text: "Quando vejo a tua boca", value: "desejo" },
+      { text: "Ao ouvir a tua voz baixa", value: "desejo" },
+      { text: "Quando me tocas mesmo sem intenção", value: "desejo" },
+      { text: "Ao imaginar o teu toque", value: "desejo" }
+    ]
+  },
+  {
+    question: "22. O que desperta teu corpo primeiro?",
+    answers: [
+      { text: "O beijo profundo", value: "desejo" },
+      { text: "Um olhar provocador", value: "desejo" },
+      { text: "Palavras sussurradas", value: "desejo" },
+      { text: "Um toque no lugar certo", value: "desejo" },
+      { text: "A tua respiração perto", value: "desejo" }
+    ]
+  },
+  {
+    question: "23. Onde gostas de ser provocado(a)?",
+    answers: [
+      { text: "No pescoço", value: "desejo" },
+      { text: "Na nuca", value: "desejo" },
+      { text: "Na parte interna das coxas", value: "desejo" },
+      { text: "Nos ouvidos", value: "desejo" },
+      { text: "Com o olhar à distância", value: "desejo" }
+    ]
+  },
+  {
+    question: "24. Quando te entregas mais ao prazer?",
+    answers: [
+      { text: "Quando estou em silêncio", value: "desejo" },
+      { text: "Quando te sinto rendido(a)", value: "desejo" },
+      { text: "Quando há urgência", value: "desejo" },
+      { text: "Quando o corpo domina a razão", value: "desejo" },
+      { text: "Quando não sei o que vem a seguir", value: "desejo" }
+    ]
+  },
+  {
+    question: "25. Qual é o toque mais excitante?",
+    answers: [
+      { text: "O que não espero", value: "desejo" },
+      { text: "O que começa leve e intensifica", value: "desejo" },
+      { text: "O que vem com olhar", value: "desejo" },
+      { text: "O que me prende e provoca", value: "desejo" },
+      { text: "O que me faz perder o foco", value: "desejo" }
+    ]
+  },
+  {
+    question: "26. Qual parte do teu corpo mais deseja?",
+    answers: [
+      { text: "A boca", value: "desejo" },
+      { text: "As mãos", value: "desejo" },
+      { text: "A pele que arrepia", value: "desejo" },
+      { text: "Os quadris", value: "desejo" },
+      { text: "O coração que dispara", value: "desejo" }
+    ]
+  },
+  {
+    question: "27. O que não pode faltar no sexo contigo?",
+    answers: [
+      { text: "Beijos longos", value: "desejo" },
+      { text: "Mãos exploradoras", value: "desejo" },
+      { text: "Toques ousados", value: "desejo" },
+      { text: "Gemidos contidos", value: "desejo" },
+      { text: "Olhos nos olhos", value: "desejo" }
+    ]
+  },
+  {
+    question: "28. O que faz o teu corpo estremecer?",
+    answers: [
+      { text: "Quando tocas onde mais desejo", value: "desejo" },
+      { text: "Quando me agarras com força", value: "desejo" },
+      { text: "Quando és firme no prazer", value: "desejo" },
+      { text: "Quando me surpreendes", value: "desejo" },
+      { text: "Quando me dizes que me queres", value: "desejo" }
+    ]
+  },
+  {
+    question: "29. Como te sentes quando o prazer cresce?",
+    answers: [
+      { text: "Fora de mim", value: "desejo" },
+      { text: "Como se o tempo parasse", value: "desejo" },
+      { text: "Com fome de mais", value: "desejo" },
+      { text: "Em estado bruto", value: "desejo" },
+      { text: "Com medo de gozar cedo", value: "desejo" }
+    ]
+  },
+  {
+    question: "30. Qual dessas cenas mais te excita?",
+    answers: [
+      { text: "Sexo de pé contra a parede", value: "desejo" },
+      { text: "Sexo oral intenso", value: "desejo" },
+      { text: "Ser agarrado(a) com força", value: "desejo" },
+      { text: "Gemidos no ouvido", value: "desejo" },
+      { text: "Olhos fechados a sentir tudo", value: "desejo" }
+    ]
+  },
+  {
+    question: "31. Quando te deixas levar sem pensar?",
+    answers: [
+      { text: "Quando sinto teu cheiro", value: "desejo" },
+      { text: "Quando sussurras no meu ouvido", value: "desejo" },
+      { text: "Quando roças em mim com intenção", value: "desejo" },
+      { text: "Quando és firme e provocante", value: "desejo" },
+      { text: "Quando sinto tua mão segurar forte", value: "desejo" }
+    ]
+  },
+  {
+    question: "32. Qual posição te tira do eixo?",
+    answers: [
+      { text: "De quatro", value: "desejo" },
+      { text: "Por cima a dominar", value: "desejo" },
+      { text: "De lado com suspiros", value: "desejo" },
+      { text: "De frente com beijo", value: "desejo" },
+      { text: "No escuro sem planejar", value: "desejo" }
+    ]
+  },
+  {
+    question: "33. Quando sentes que és mais desejado(a)?",
+    answers: [
+      { text: "Quando toco e sorris", value: "desejo" },
+      { text: "Quando gemes meu nome", value: "desejo" },
+      { text: "Quando gozas em mim", value: "desejo" },
+      { text: "Quando me pedes mais", value: "desejo" },
+      { text: "Quando teus olhos me devoram", value: "desejo" }
+    ]
+  },
+  {
+    question: "34. O que mais gostas de ouvir no sexo?",
+    answers: [
+      { text: "Gemidos soltos", value: "desejo" },
+      { text: "Palavrões de prazer", value: "desejo" },
+      { text: "Teu nome sendo dito", value: "desejo" },
+      { text: "Respiração acelerada", value: "desejo" },
+      { text: "Confissões picantes", value: "desejo" }
+    ]
+  },
+  {
+    question: "35. Qual destas sensações te define no prazer?",
+    answers: [
+      { text: "Pressa em te ter", value: "desejo" },
+      { text: "Sede de sentir tudo", value: "desejo" },
+      { text: "Fome de prazer", value: "desejo" },
+      { text: "Vontade de dominar", value: "desejo" },
+      { text: "Desejo de te ver rendido(a)", value: "desejo" }
+    ]
+  },
+  {
+    question: "36. Qual das situações te excita mais?",
+    answers: [
+      { text: "Sexo no carro", value: "desejo" },
+      { text: "Sexo escondido", value: "desejo" },
+      { text: "Sexo com espelhos", value: "desejo" },
+      { text: "Sexo após briga", value: "desejo" },
+      { text: "Sexo proibido", value: "desejo" }
+    ]
+  },
+  {
+    question: "37. Como sabes que estás no teu auge de tesão?",
+    answers: [
+      { text: "Quando perco o controlo", value: "desejo" },
+      { text: "Quando grito ou mordo", value: "desejo" },
+      { text: "Quando te agarro com força", value: "desejo" },
+      { text: "Quando esqueço o mundo", value: "desejo" },
+      { text: "Quando sinto que gozo vai ser forte", value: "desejo" }
+    ]
+  },
+  {
+    question: "38. Quando o toque vira necessidade?",
+    answers: [
+      { text: "Quando espero há muito", value: "desejo" },
+      { text: "Quando estás quente e perto", value: "desejo" },
+      { text: "Quando já não aguento mais", value: "desejo" },
+      { text: "Quando o olhar já disse tudo", value: "desejo" },
+      { text: "Quando sonho contigo nu(a)", value: "desejo" }
+    ]
+  },
+  {
+    question: "39. Qual parte tua pede mais prazer?",
+    answers: [
+      { text: "A língua", value: "desejo" },
+      { text: "Os dedos", value: "desejo" },
+      { text: "Os quadris", value: "desejo" },
+      { text: "Os seios/nádegas", value: "desejo" },
+      { text: "O olhar que provoca", value: "desejo" }
+    ]
+  },
+  {
+    question: "40. Quando sentes que teu corpo pede mais?",
+    answers: [
+      { text: "Quando gozo e quero repetir", value: "desejo" },
+      { text: "Quando me perco em ti", value: "desejo" },
+      { text: "Quando o prazer vira vício", value: "desejo" },
+      { text: "Quando não te quero parar", value: "desejo" },
+      { text: "Quando esqueço de mim", value: "desejo" }
+    ]
+  },
 
-  
+  {
+    question: "41. Qual destas fantasias mais te intriga?",
+    answers: [
+      { text: "Ser vendado(a) e explorado(a)", value: "curiosidade" },
+      { text: "Sexo em público", value: "curiosidade" },
+      { text: "Ver-me a tocar", value: "curiosidade" },
+      { text: "Partilhar fantasias por mensagem", value: "curiosidade" },
+      { text: "Usar brinquedos sexuais juntos", value: "curiosidade" }
+    ]
+  },
+  {
+    question: "42. Como reagirias se eu te sugerisse algo novo na cama?",
+    answers: [
+      { text: "Com vontade de tentar", value: "curiosidade" },
+      { text: "Com excitação", value: "curiosidade" },
+      { text: "Com mente aberta", value: "curiosidade" },
+      { text: "Com surpresa boa", value: "curiosidade" },
+      { text: "Com um desafio interno", value: "curiosidade" }
+    ]
+  },
+  {
+    question: "43. Como te sentes ao falar de fetiches?",
+    answers: [
+      { text: "Curioso(a)", value: "curiosidade" },
+      { text: "Levemente excitado(a)", value: "curiosidade" },
+      { text: "Aberto(a) ao tema", value: "curiosidade" },
+      { text: "Inseguro(a) mas interessado(a)", value: "curiosidade" },
+      { text: "Animado(a) para experimentar", value: "curiosidade" }
+    ]
+  },
+  {
+    question: "44. Como seria uma noite diferente contigo?",
+    answers: [
+      { text: "Com jogos sensuais", value: "curiosidade" },
+      { text: "Com troca de papéis", value: "curiosidade" },
+      { text: "Com desafios sexuais", value: "curiosidade" },
+      { text: "Com provocações inesperadas", value: "curiosidade" },
+      { text: "Com planos secretos", value: "curiosidade" }
+    ]
+  },
+  {
+    question: "45. Qual destas práticas já pensaste em experimentar?",
+    answers: [
+      { text: "Roleplay (personagens)", value: "curiosidade" },
+      { text: "Vibrador durante o sexo", value: "curiosidade" },
+      { text: "Fitas ou vendas", value: "curiosidade" },
+      { text: "Sexo em local proibido", value: "curiosidade" },
+      { text: "Observar ou ser observado(a)", value: "curiosidade" }
+    ]
+  },
+  {
+    question: "46. O que te excita mais numa provocação?",
+    answers: [
+      { text: "Palavras ousadas", value: "curiosidade" },
+      { text: "Olhares fixos", value: "curiosidade" },
+      { text: "Movimentos lentos", value: "curiosidade" },
+      { text: "Brincadeiras arriscadas", value: "curiosidade" },
+      { text: "Risadas no meio do prazer", value: "curiosidade" }
+    ]
+  },
+  {
+    question: "47. Qual destas te desafia mais?",
+    answers: [
+      { text: "Experimentar algo novo", value: "curiosidade" },
+      { text: "Falar dos meus desejos", value: "curiosidade" },
+      { text: "Propor algo ousado", value: "curiosidade" },
+      { text: "Mostrar minha vulnerabilidade", value: "curiosidade" },
+      { text: "Despir tabus", value: "curiosidade" }
+    ]
+  },
+  {
+    question: "48. Qual frase te excitaria mais?",
+    answers: [
+      { text: "Hoje mando eu", value: "curiosidade" },
+      { text: "Fica quieto(a) e sente", value: "curiosidade" },
+      { text: "Não vais saber o que vem", value: "curiosidade" },
+      { text: "Quero explorar cada parte tua", value: "curiosidade" },
+      { text: "Fecha os olhos e confia", value: "curiosidade" }
+    ]
+  },
+  {
+    question: "49. Se fizéssemos algo novo hoje, o que gostarias?",
+    answers: [
+      { text: "Tocar-te com olhos vendados", value: "curiosidade" },
+      { text: "Usar brinquedos novos", value: "curiosidade" },
+      { text: "Explorar posições não habituais", value: "curiosidade" },
+      { text: "Desafiar a minha zona de conforto", value: "curiosidade" },
+      { text: "Tocar-te sem pressa, só para provocar", value: "curiosidade" }
+    ]
+  },
+  {
+    question: "50. O que mais mexe com a tua curiosidade sexual?",
+    answers: [
+      { text: "O que ainda não vivemos", value: "curiosidade" },
+      { text: "O que não sei se te agrada", value: "curiosidade" },
+      { text: "O que é arriscado", value: "curiosidade" },
+      { text: "O que sussurras sem me contar tudo", value: "curiosidade" },
+      { text: "O que é segredo só nosso", value: "curiosidade" }
+    ]
+  },
+  // continua até 60...];
