@@ -356,7 +356,7 @@ const questions = [
       { text: "Do teu abraço sem pressa", value: "emocao" }
     ]
   },
-{
+  {
     question: "21. Quando sentes desejo de mim do nada?",
     answers: [
       { text: "Ao lembrar do teu cheiro", value: "desejo" },
@@ -556,7 +556,6 @@ const questions = [
       { text: "Quando esqueço de mim", value: "desejo" }
     ]
   },
-
   {
     question: "41. Qual destas fantasias mais te intriga?",
     answers: [
