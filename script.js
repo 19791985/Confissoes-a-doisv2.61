@@ -657,4 +657,704 @@ const questions = [
       { text: "O que é segredo só nosso", value: "curiosidade" }
     ]
   },
-  // continua até 60...];
+  {
+    question: "51. Qual destas brincadeiras gostarias de tentar?",
+    answers: [
+      { text: "Amarrar/ser amarrado(a)", value: "curiosidade" },
+      { text: "Dominar ou ser dominado(a)", value: "curiosidade" },
+      { text: "Usar brinquedos com vibração", value: "curiosidade" },
+      { text: "Sexo em local inusitado", value: "curiosidade" },
+      { text: "Ver-nos ao espelho", value: "curiosidade" }
+    ]
+  },
+  {
+    question: "52. O que mais te instiga no inesperado?",
+    answers: [
+      { text: "Não saber o que vem", value: "curiosidade" },
+      { text: "Ser surpreendido(a)", value: "curiosidade" },
+      { text: "O risco", value: "curiosidade" },
+      { text: "A entrega", value: "curiosidade" },
+      { text: "A tensão entre medo e prazer", value: "curiosidade" }
+    ]
+  },
+  {
+    question: "53. Qual dessas cenas gostarias de encenar?",
+    answers: [
+      { text: "Médico(a) e paciente", value: "curiosidade" },
+      { text: "Desconhecidos num hotel", value: "curiosidade" },
+      { text: "Polícia e preso(a)", value: "curiosidade" },
+      { text: "Chefe e funcionário(a)", value: "curiosidade" },
+      { text: "Professor(a) e aluno(a)", value: "curiosidade" }
+    ]
+  },
+  {
+    question: "54. Se eu te dissesse 'hoje vais ser meu brinquedo', o que pensavas?",
+    answers: [
+      { text: "Curiosidade pura", value: "curiosidade" },
+      { text: "Excitação imediata", value: "curiosidade" },
+      { text: "Desejo de saber mais", value: "curiosidade" },
+      { text: "Rendição silenciosa", value: "curiosidade" },
+      { text: "Vontade de provocar ainda mais", value: "curiosidade" }
+    ]
+  },
+  {
+    question: "55. Com que frequência pensas em explorar novas práticas?",
+    answers: [
+      { text: "Sempre que posso", value: "curiosidade" },
+      { text: "Depende da confiança", value: "curiosidade" },
+      { text: "Quando o clima está certo", value: "curiosidade" },
+      { text: "Quando sinto que estás disponível", value: "curiosidade" },
+      { text: "Quase sempre — em segredo", value: "curiosidade" }
+    ]
+  },
+  {
+    question: "56. O que mais gostavas de ouvir de mim numa noite ousada?",
+    answers: [
+      { text: "Hoje vais obedecer", value: "curiosidade" },
+      { text: "Não vais saber o que te espera", value: "curiosidade" },
+      { text: "Quero que sintas tudo", value: "curiosidade" },
+      { text: "És só meu/minha esta noite", value: "curiosidade" },
+      { text: "Fecha os olhos e goza", value: "curiosidade" }
+    ]
+  },
+  {
+    question: "57. Qual destas situações te deixa mais exposto(a)?",
+    answers: [
+      { text: "Ser despido(a) lentamente", value: "curiosidade" },
+      { text: "Ficar à mercê do teu toque", value: "curiosidade" },
+      { text: "Te contar uma fantasia", value: "curiosidade" },
+      { text: "Ser observado(a) enquanto me tocas", value: "curiosidade" },
+      { text: "Ficar imóvel enquanto me dominas", value: "curiosidade" }
+    ]
+  },
+  {
+    question: "58. O que te prende numa experiência nova?",
+    answers: [
+      { text: "O mistério", value: "curiosidade" },
+      { text: "A entrega do outro", value: "curiosidade" },
+      { text: "O jogo psicológico", value: "curiosidade" },
+      { text: "O não saber o que vem", value: "curiosidade" },
+      { text: "O prazer em cada risco", value: "curiosidade" }
+    ]
+  },
+  {
+    question: "59. Qual dessas sensações te excita mais?",
+    answers: [
+      { text: "A antecipação", value: "curiosidade" },
+      { text: "O suspense do toque", value: "curiosidade" },
+      { text: "O medo misturado com prazer", value: "curiosidade" },
+      { text: "A surpresa de cada gesto", value: "curiosidade" },
+      { text: "A entrega sem saber o fim", value: "curiosidade" }
+    ]
+  },
+  {
+    question: "60. Se tivéssemos uma noite sem limites, o que experimentarias?",
+    answers: [
+      { text: "Algo que nunca confessei", value: "curiosidade" },
+      { text: "Tudo o que o corpo aguentar", value: "curiosidade" },
+      { text: "Uma nova versão de nós", value: "curiosidade" },
+      { text: "Prazer sem pudor", value: "curiosidade" },
+      { text: "Um mergulho sem volta", value: "curiosidade" }
+    ]
+  },
+  {
+    question: "61. O que sentes ao obedecer no sexo?",
+    answers: [
+      { text: "Entrego-me totalmente", value: "submissao" },
+      { text: "Sinto-me liberto(a)", value: "submissao" },
+      { text: "É excitante ser guiado(a)", value: "submissao" },
+      { text: "Perco o controlo com prazer", value: "submissao" },
+      { text: "É um jogo intenso", value: "submissao" }
+    ]
+  },
+  {
+    question: "62. O que te excita mais ao dominar?",
+    answers: [
+      { text: "Conduzir o ritmo", value: "dominancia" },
+      { text: "Dar ordens e ser seguido(a)", value: "dominancia" },
+      { text: "Ver o outro render-se", value: "dominancia" },
+      { text: "Explorar limites", value: "dominancia" },
+      { text: "Ser temido(a) e desejado(a)", value: "dominancia" }
+    ]
+  },
+  {
+    question: "63. O que te faz sentir submisso(a)?",
+    answers: [
+      { text: "Quando sou imobilizado(a)", value: "submissao" },
+      { text: "Quando és firme comigo", value: "submissao" },
+      { text: "Quando me proíbes de tocar", value: "submissao" },
+      { text: "Quando ordenas com voz baixa", value: "submissao" },
+      { text: "Quando não sei o que vem", value: "submissao" }
+    ]
+  },
+  {
+    question: "64. Que tipo de ordens te excita ouvir?",
+    answers: [
+      { text: "Tira a roupa, agora", value: "submissao" },
+      { text: "Fica de joelhos", value: "submissao" },
+      { text: "Não te mexas", value: "submissao" },
+      { text: "Grita meu nome", value: "submissao" },
+      { text: "Sente sem pensar", value: "submissao" }
+    ]
+  },
+  {
+    question: "65. O que gostas de controlar?",
+    answers: [
+      { text: "O ritmo do prazer", value: "dominancia" },
+      { text: "As palavras ditas", value: "dominancia" },
+      { text: "A posição do outro", value: "dominancia" },
+      { text: "Os sons que ele(a) faz", value: "dominancia" },
+      { text: "Tudo — até quando goza", value: "dominancia" }
+    ]
+  },
+  {
+    question: "66. O que te excita num olhar submisso?",
+    answers: [
+      { text: "Ver rendição total", value: "dominancia" },
+      { text: "Ver desejo sem resistência", value: "dominancia" },
+      { text: "Ver que esperas por mim", value: "dominancia" },
+      { text: "Ver que te entregas", value: "dominancia" },
+      { text: "Ver que não reages sem ordem", value: "dominancia" }
+    ]
+  },
+  {
+    question: "67. Como te sentes ao ser dominado(a)?",
+    answers: [
+      { text: "Livre na entrega", value: "submissao" },
+      { text: "Mais excitado(a)", value: "submissao" },
+      { text: "Desejoso(a) de mais", value: "submissao" },
+      { text: "Aquecido(a) por dentro", value: "submissao" },
+      { text: "Em transe", value: "submissao" }
+    ]
+  },
+  {
+    question: "68. O que mais gostas de mandar fazer?",
+    answers: [
+      { text: "Despir-se lentamente", value: "dominancia" },
+      { text: "Ficar imóvel enquanto toco", value: "dominancia" },
+      { text: "Pedir para implorar por mais", value: "dominancia" },
+      { text: "Obedecer sem pensar", value: "dominancia" },
+      { text: "Beijar onde eu mandar", value: "dominancia" }
+    ]
+  },
+  {
+    question: "69. Onde gostas de ser submisso(a)?",
+    answers: [
+      { text: "Na cama", value: "submissao" },
+      { text: "Em qualquer lugar seguro", value: "submissao" },
+      { text: "Na palavra e no toque", value: "submissao" },
+      { text: "No olhar", value: "submissao" },
+      { text: "Em todo o corpo", value: "submissao" }
+    ]
+  },
+  {
+    question: "70. Qual dessas ações te domina mais?",
+    answers: [
+      { text: "Segurar meu queixo e olhar fixo", value: "submissao" },
+      { text: "Me virar de costas com força", value: "submissao" },
+      { text: "Me proibir de gozar", value: "submissao" },
+      { text: "Segurar meus pulsos", value: "submissao" },
+      { text: "Mandar sem me deixar pensar", value: "submissao" }
+    ]
+  },
+  {
+    question: "71. Qual dessas frases gostarias de ouvir no ouvido?",
+    answers: [
+      { text: "Tu és meu/minha", value: "submissao" },
+      { text: "Obedece agora", value: "dominancia" },
+      { text: "Quero ver tua rendição", value: "dominancia" },
+      { text: "Não tens escolha", value: "dominancia" },
+      { text: "Foste feito(a) para mim", value: "submissao" }
+    ]
+  },
+  {
+    question: "72. O que mais te excita no domínio psicológico?",
+    answers: [
+      { text: "Saber que controlo teu prazer", value: "dominancia" },
+      { text: "Ver que me obedeces sem palavras", value: "dominancia" },
+      { text: "Jogar com teus limites", value: "dominancia" },
+      { text: "Ter poder sobre tua mente", value: "dominancia" },
+      { text: "Ser teu dono(a) naquele momento", value: "dominancia" }
+    ]
+  },
+  {
+    question: "73. Quando te sentes mais submisso(a)?",
+    answers: [
+      { text: "Quando sou tocado(a) com autoridade", value: "submissao" },
+      { text: "Quando não posso me mexer", value: "submissao" },
+      { text: "Quando me dizes o que fazer", value: "submissao" },
+      { text: "Quando confio cegamente", value: "submissao" },
+      { text: "Quando não sei o que vem", value: "submissao" }
+    ]
+  },
+  {
+    question: "74. Como te excita castigar (ou ser castigado)?",
+    answers: [
+      { text: "Com tapas leves", value: "dominancia" },
+      { text: "Com palavras sujas", value: "dominancia" },
+      { text: "Com suspense", value: "dominancia" },
+      { text: "Com controle total", value: "dominancia" },
+      { text: "Com prazer e tensão", value: "dominancia" }
+    ]
+  },
+  {
+    question: "75. Qual o teu limite no jogo de poder?",
+    answers: [
+      { text: "A dor física", value: "curiosidade" },
+      { text: "Perder o controlo real", value: "curiosidade" },
+      { text: "Não saber a palavra de segurança", value: "curiosidade" },
+      { text: "Ser visto(a) em público", value: "curiosidade" },
+      { text: "Não ter conexão emocional", value: "curiosidade" }
+    ]
+  },
+  {
+    question: "76. Qual papel mexe mais contigo?",
+    answers: [
+      { text: "Submisso(a) completo(a)", value: "submissao" },
+      { text: "Dominante cuidadoso(a)", value: "dominancia" },
+      { text: "Switch (alterno os papéis)", value: "curiosidade" },
+      { text: "Submisso(a) que provoca", value: "submissao" },
+      { text: "Dominante que exige tudo", value: "dominancia" }
+    ]
+  },
+  {
+    question: "77. Como gostas de provocar submissão?",
+    answers: [
+      { text: "Com toques imprevisíveis", value: "dominancia" },
+      { text: "Com ordens calmas", value: "dominancia" },
+      { text: "Com controlo do tempo", value: "dominancia" },
+      { text: "Com proibições tentadoras", value: "dominancia" },
+      { text: "Com gestos dominadores", value: "dominancia" }
+    ]
+  },
+  {
+    question: "78. Qual castigo sexual te excita mais?",
+    answers: [
+      { text: "Ficar de joelhos", value: "submissao" },
+      { text: "Esperar para ser tocado(a)", value: "submissao" },
+      { text: "Não poder gozar", value: "submissao" },
+      { text: "Ser amarrado(a)", value: "submissao" },
+      { text: "Ouvir palavras brutas", value: "submissao" }
+    ]
+  },
+  {
+    question: "79. Qual destas ordens te faria gemer só de ouvir?",
+    answers: [
+      { text: "Fica de quatro agora", value: "submissao" },
+      { text: "Toca-te enquanto assisto", value: "dominancia" },
+      { text: "Engole sem reclamar", value: "dominancia" },
+      { text: "Não te atrevas a parar", value: "dominancia" },
+      { text: "Vira-te. Agora.", value: "dominancia" }
+    ]
+  },
+  {
+    question: "80. O que significa submissão para ti?",
+    answers: [
+      { text: "Entrega com prazer", value: "submissao" },
+      { text: "Confiança total", value: "submissao" },
+      { text: "Erotismo mental", value: "submissao" },
+      { text: "Serviço voluntário", value: "submissao" },
+      { text: "Jogo onde ganho mesmo rendido(a)", value: "submissao" }
+    ]
+  },
+  {
+    question: "81. O que te faz implorar por sexo?",
+    answers: [
+      { text: "Oral prolongado", value: "oral_forte" },
+      { text: "Beijos com domínio", value: "oral_forte" },
+      { text: "Toques entre as pernas sem continuar", value: "oral_forte" },
+      { text: "O cheiro do teu corpo", value: "oral_forte" },
+      { text: "Palavras sujas no ouvido", value: "oral_forte" }
+    ]
+  },
+  {
+    question: "82. O que mais gostas num bom oral?",
+    answers: [
+      { text: "Quando é lento e molhado", value: "oral_forte" },
+      { text: "Quando alternas ritmo", value: "oral_forte" },
+      { text: "Quando usas a língua inteira", value: "oral_forte" },
+      { text: "Quando me seguras firme", value: "oral_forte" },
+      { text: "Quando me olhas enquanto fazes", value: "oral_forte" }
+    ]
+  },
+  {
+    question: "83. O que te excita no anal?",
+    answers: [
+      { text: "A proibição implícita", value: "anal_duro" },
+      { text: "O prazer inesperado", value: "anal_duro" },
+      { text: "A preparação intensa", value: "anal_duro" },
+      { text: "O domínio de quem penetra", value: "anal_duro" },
+      { text: "A entrega de quem recebe", value: "anal_duro" }
+    ]
+  },
+  {
+    question: "84. Qual destas posições mais te deixa louco(a)?",
+    answers: [
+      { text: "De quatro", value: "anal_duro" },
+      { text: "Na borda da cama", value: "oral_forte" },
+      { text: "Montado(a) por cima", value: "oral_forte" },
+      { text: "Com as mãos presas", value: "anal_duro" },
+      { text: "Deitado(a) e submisso(a)", value: "anal_duro" }
+    ]
+  },
+  {
+    question: "85. O que sentes ao receber ou dar oral até o fim?",
+    answers: [
+      { text: "Poder absoluto", value: "oral_forte" },
+      { text: "Prazer em dominar", value: "oral_forte" },
+      { text: "Vontade de engolir tudo", value: "oral_forte" },
+      { text: "Tensão que explode", value: "oral_forte" },
+      { text: "Excitação só em imaginar", value: "oral_forte" }
+    ]
+  },
+  {
+    question: "86. Qual destas combinações mais te enlouquece?",
+    answers: [
+      { text: "Oral + palmadas", value: "oral_forte" },
+      { text: "Anal + mãos firmes", value: "anal_duro" },
+      { text: "Beijo + puxões de cabelo", value: "oral_forte" },
+      { text: "Mordidas + penetração", value: "anal_duro" },
+      { text: "Oral com gemidos teus", value: "oral_forte" }
+    ]
+  },
+  {
+    question: "87. Como te excita ouvir 'engole tudo'?",
+    answers: [
+      { text: "Sinto que pertenço a ti", value: "oral_forte" },
+      { text: "Fico com tesão na hora", value: "oral_forte" },
+      { text: "Sinto prazer só em obedecer", value: "oral_forte" },
+      { text: "Imagino e fico molhado(a)", value: "oral_forte" },
+      { text: "Perco o controlo", value: "oral_forte" }
+    ]
+  },
+  {
+    question: "88. O que te excita mais numa penetração anal?",
+    answers: [
+      { text: "Ser dominado(a) com força", value: "anal_duro" },
+      { text: "Sentir cada centímetro", value: "anal_duro" },
+      { text: "Ser aberto(a) lentamente", value: "anal_duro" },
+      { text: "Ser guiado(a) e rendido(a)", value: "anal_duro" },
+      { text: "Misturar dor e prazer", value: "anal_duro" }
+    ]
+  },
+  {
+    question: "89. Como preferes começar o sexo intenso?",
+    answers: [
+      { text: "Com oral demorado", value: "oral_forte" },
+      { text: "Com tapinhas e provocações", value: "oral_forte" },
+      { text: "Com domínio verbal", value: "anal_duro" },
+      { text: "Com penetração direta", value: "anal_duro" },
+      { text: "Com tensão entre palavras", value: "anal_duro" }
+    ]
+  },
+  {
+    question: "90. Qual destas provoca mais prazer físico?",
+    answers: [
+      { text: "Ser puxado(a) com força", value: "anal_duro" },
+      { text: "Ser penetrado(a) devagar", value: "anal_duro" },
+      { text: "Sentir língua onde ninguém vai", value: "oral_forte" },
+      { text: "Oral com pressão no rosto", value: "oral_forte" },
+      { text: "Gemidos teus na minha boca", value: "oral_forte" }
+    ]
+  },
+  {
+    question: "91. O que torna o sexo cru mais excitante?",
+    answers: [
+      { text: "Não planejar nada", value: "anal_duro" },
+      { text: "Explodir juntos sem regra", value: "anal_duro" },
+      { text: "Oral no meio do caminho", value: "oral_forte" },
+      { text: "Anal sem palavras, só desejo", value: "anal_duro" },
+      { text: "Suor e gemidos brutos", value: "anal_duro" }
+    ]
+  },
+  {
+    question: "92. O que te faria gozar só com palavras?",
+    answers: [
+      { text: "Descreve o que vais fazer", value: "oral_forte" },
+      { text: "Manda-me de forma firme", value: "oral_forte" },
+      { text: "Grita que sou teu/ tua", value: "oral_forte" },
+      { text: "Faz-me prometer que vou engolir", value: "oral_forte" },
+      { text: "Diz que vais dentro sem parar", value: "anal_duro" }
+    ]
+  },
+  {
+    question: "93. Qual destas tu repetias sem pensar?",
+    answers: [
+      { text: "Oral até eu gozar", value: "oral_forte" },
+      { text: "Anal com domínio total", value: "anal_duro" },
+      { text: "Beijo molhado com gemido", value: "oral_forte" },
+      { text: "Tapas enquanto me chamas de teu/tua", value: "anal_duro" },
+      { text: "Oral com mãos firmes", value: "oral_forte" }
+    ]
+  },
+  {
+    question: "94. Como imaginas um sexo insano entre nós?",
+    answers: [
+      { text: "Garganta funda sem fim", value: "oral_forte" },
+      { text: "Anal até gemer alto", value: "anal_duro" },
+      { text: "Oral + anal alternado", value: "anal_duro" },
+      { text: "Sexo de costas com domínio", value: "anal_duro" },
+      { text: "Me suga até implorar", value: "oral_forte" }
+    ]
+  },
+  {
+    question: "95. Qual palavra excita mais quando dita com firmeza?",
+    answers: [
+      { text: "Chupa", value: "oral_forte" },
+      { text: "Grita", value: "oral_forte" },
+      { text: "Entra", value: "anal_duro" },
+      { text: "Vira", value: "anal_duro" },
+      { text: "Goza", value: "oral_forte" }
+    ]
+  },
+  {
+    question: "96. Quando sentes que és 100% meu/minha?",
+    answers: [
+      { text: "Quando estou na tua boca", value: "oral_forte" },
+      { text: "Quando me dominas com penetração", value: "anal_duro" },
+      { text: "Quando engulo tudo de ti", value: "oral_forte" },
+      { text: "Quando me usas com firmeza", value: "anal_duro" },
+      { text: "Quando gememos no mesmo tempo", value: "anal_duro" }
+    ]
+  },
+  {
+    question: "97. Como imaginas um oral/anal simultâneo?",
+    answers: [
+      { text: "Mente explode", value: "anal_duro" },
+      { text: "Corpo treme", value: "anal_duro" },
+      { text: "Gemido ecoa", value: "oral_forte" },
+      { text: "Olho para ti rendido(a)", value: "oral_forte" },
+      { text: "Perco o controlo", value: "anal_duro" }
+    ]
+  },
+  {
+    question: "98. O que queres ouvir enquanto me entregas tudo?",
+    answers: [
+      { text: "Continua até o fim", value: "oral_forte" },
+      { text: "Vem com tudo", value: "anal_duro" },
+      { text: "Faz-me teu/ tua", value: "anal_duro" },
+      { text: "Não te atrevas a parar", value: "oral_forte" },
+      { text: "Quero gozar em ti", value: "oral_forte" }
+    ]
+  },
+  {
+    question: "99. Qual dessas palavras descreve melhor teu orgasmo?",
+    answers: [
+      { text: "Explosão", value: "anal_duro" },
+      { text: "Submissão total", value: "oral_forte" },
+      { text: "Tremor interno", value: "oral_forte" },
+      { text: "Libertação", value: "anal_duro" },
+      { text: "Vício", value: "oral_forte" }
+    ]
+  },
+  {
+    question: "100. Se esta fosse nossa última vez, o que pedirias?",
+    answers: [
+      { text: "Suga-me até o fim", value: "oral_forte" },
+      { text: "Vem por trás e domina", value: "anal_duro" },
+      { text: "Faz-me gozar só com palavras", value: "oral_forte" },
+      { text: "Fica em mim até o fim", value: "anal_duro" },
+      { text: "Faz tudo, como se fosse a última", value: "anal_duro" }
+    ]
+  },
+  {
+    question: "101. O que é mais importante para o nosso futuro?",
+    answers: [
+      { text: "Crescer juntos", value: "cumplicidade" },
+      { text: "Explorar novas versões de nós", value: "cumplicidade" },
+      { text: "Confiar e rir sempre", value: "cumplicidade" },
+      { text: "Nunca perder a intimidade", value: "cumplicidade" },
+      { text: "Amar mesmo nas diferenças", value: "cumplicidade" }
+    ]
+  },
+  {
+    question: "102. Como imaginas um amor que dura?",
+    answers: [
+      { text: "Leve e provocante", value: "cumplicidade" },
+      { text: "Profundo e verdadeiro", value: "cumplicidade" },
+      { text: "Com pausas e reconexão", value: "cumplicidade" },
+      { text: "Com prazer e diálogo", value: "cumplicidade" },
+      { text: "Com respeito e loucura", value: "cumplicidade" }
+    ]
+  },
+  {
+    question: "103. O que sustenta a nossa ligação íntima?",
+    answers: [
+      { text: "Transparência", value: "cumplicidade" },
+      { text: "Vontade mútua", value: "cumplicidade" },
+      { text: "Entrega emocional", value: "cumplicidade" },
+      { text: "Prazer partilhado", value: "cumplicidade" },
+      { text: "Ritual de carinho", value: "cumplicidade" }
+    ]
+  },
+  {
+    question: "104. O que é mais sagrado entre nós?",
+    answers: [
+      { text: "O silêncio partilhado", value: "cumplicidade" },
+      { text: "O respeito mútuo", value: "cumplicidade" },
+      { text: "O sexo com verdade", value: "cumplicidade" },
+      { text: "O abraço que cura", value: "cumplicidade" },
+      { text: "O desejo que renasce", value: "cumplicidade" }
+    ]
+  },
+  {
+    question: "105. Como sabes que somos certos um para o outro?",
+    answers: [
+      { text: "Quando me olhas em silêncio", value: "cumplicidade" },
+      { text: "Quando te escolho todos os dias", value: "cumplicidade" },
+      { text: "Quando rimos do nada", value: "cumplicidade" },
+      { text: "Quando gozo contigo e depois abraço", value: "cumplicidade" },
+      { text: "Quando o amor continua mesmo sem sexo", value: "cumplicidade" }
+    ]
+  },
+  {
+    question: "106. O que gostarias que nunca mudasse entre nós?",
+    answers: [
+      { text: "A liberdade de ser quem somos", value: "cumplicidade" },
+      { text: "A vontade de tocar", value: "cumplicidade" },
+      { text: "A risada depois do gozo", value: "cumplicidade" },
+      { text: "A confiança nos olhos", value: "cumplicidade" },
+      { text: "A forma como me chamas de teu/tua", value: "cumplicidade" }
+    ]
+  },
+  {
+    question: "107. Como te imaginas comigo daqui a anos?",
+    answers: [
+      { text: "Deitados depois de fazer amor", value: "cumplicidade" },
+      { text: "Rindo e ainda desejando", value: "cumplicidade" },
+      { text: "Contando segredos novos", value: "cumplicidade" },
+      { text: "Descobrindo novas formas de prazer", value: "cumplicidade" },
+      { text: "Velhos e ainda nus um para o outro", value: "cumplicidade" }
+    ]
+  },
+  {
+    question: "108. O que mais gostas no nosso sexo?",
+    answers: [
+      { text: "A liberdade de rir e gozar", value: "cumplicidade" },
+      { text: "A entrega emocional", value: "cumplicidade" },
+      { text: "O corpo que conhece o outro", value: "cumplicidade" },
+      { text: "O jeito como me chamas", value: "cumplicidade" },
+      { text: "A verdade no prazer", value: "cumplicidade" }
+    ]
+  },
+  {
+    question: "109. Qual é o nosso superpoder como casal?",
+    answers: [
+      { text: "Respeitar e provocar", value: "cumplicidade" },
+      { text: "Rir e gozar juntos", value: "cumplicidade" },
+      { text: "Chorar e perdoar", value: "cumplicidade" },
+      { text: "Querer sem precisar", value: "cumplicidade" },
+      { text: "Ser um só sem se perder", value: "cumplicidade" }
+    ]
+  },
+  {
+    question: "110. Quando sentes que a nossa relação está mais forte?",
+    answers: [
+      { text: "Depois de uma noite intensa", value: "cumplicidade" },
+      { text: "Quando conversamos com verdade", value: "cumplicidade" },
+      { text: "Quando descobrimos algo novo", value: "cumplicidade" },
+      { text: "Quando te deixo ver minhas sombras", value: "cumplicidade" },
+      { text: "Quando acordamos colados", value: "cumplicidade" }
+    ]
+  },
+  {
+    question: "111. Qual frase define melhor o nosso amor?",
+    answers: [
+      { text: "Profundo e provocante", value: "cumplicidade" },
+      { text: "Verdadeiro e sexual", value: "cumplicidade" },
+      { text: "Livre e comprometido", value: "cumplicidade" },
+      { text: "Louco e constante", value: "cumplicidade" },
+      { text: "Imperfeito mas inteiro", value: "cumplicidade" }
+    ]
+  },
+  {
+    question: "112. O que mais valorizas após o orgasmo?",
+    answers: [
+      { text: "A conversa ou silêncio", value: "cumplicidade" },
+      { text: "O abraço", value: "cumplicidade" },
+      { text: "O olhar com ternura", value: "cumplicidade" },
+      { text: "A forma como me cobres", value: "cumplicidade" },
+      { text: "A presença depois do prazer", value: "cumplicidade" }
+    ]
+  },
+  {
+    question: "113. Como reconheces o amor verdadeiro?",
+    answers: [
+      { text: "Quando há desejo e respeito", value: "cumplicidade" },
+      { text: "Quando o silêncio conforta", value: "cumplicidade" },
+      { text: "Quando gozo contigo e sorrio", value: "cumplicidade" },
+      { text: "Quando continuo a escolher-te", value: "cumplicidade" },
+      { text: "Quando não preciso fingir", value: "cumplicidade" }
+    ]
+  },
+  {
+    question: "114. O que representa fazer amor contigo?",
+    answers: [
+      { text: "Fusão", value: "cumplicidade" },
+      { text: "Verdades trocadas em pele", value: "cumplicidade" },
+      { text: "Ritual nosso", value: "cumplicidade" },
+      { text: "Conexão com alma", value: "cumplicidade" },
+      { text: "Libertação e amor", value: "cumplicidade" }
+    ]
+  },
+  {
+    question: "115. Como sabes que és meu/minha?",
+    answers: [
+      { text: "Pelo toque que me conhece", value: "cumplicidade" },
+      { text: "Pela forma como me aceitas", value: "cumplicidade" },
+      { text: "Por me olhares sem medo", value: "cumplicidade" },
+      { text: "Por seres casa no caos", value: "cumplicidade" },
+      { text: "Por continuares mesmo nas tempestades", value: "cumplicidade" }
+    ]
+  },
+  {
+    question: "116. Quando sentes que és parte de mim?",
+    answers: [
+      { text: "Quando gozas comigo", value: "cumplicidade" },
+      { text: "Quando me entendes em silêncio", value: "cumplicidade" },
+      { text: "Quando cuidas de mim sem pedir", value: "cumplicidade" },
+      { text: "Quando dormes no meu peito", value: "cumplicidade" },
+      { text: "Quando toco a tua alma", value: "cumplicidade" }
+    ]
+  },
+  {
+    question: "117. Como imaginas o nosso envelhecer juntos?",
+    answers: [
+      { text: "Com humor e desejo", value: "cumplicidade" },
+      { text: "Com beijos lentos", value: "cumplicidade" },
+      { text: "Com histórias sujas para contar", value: "cumplicidade" },
+      { text: "Com a mesma cama e loucura", value: "cumplicidade" },
+      { text: "Com gratidão e prazer", value: "cumplicidade" }
+    ]
+  },
+  {
+    question: "118. O que manteria vivo o desejo com os anos?",
+    answers: [
+      { text: "Exploração constante", value: "cumplicidade" },
+      { text: "Liberdade e conexão", value: "cumplicidade" },
+      { text: "Jogos provocantes", value: "cumplicidade" },
+      { text: "Vontade de descobrir mais", value: "cumplicidade" },
+      { text: "Toques com verdade", value: "cumplicidade" }
+    ]
+  },
+  {
+    question: "119. Qual gesto representa o teu amor?",
+    answers: [
+      { text: "Ouvir em silêncio", value: "cumplicidade" },
+      { text: "Tocar com calma", value: "cumplicidade" },
+      { text: "Beijar sem pressa", value: "cumplicidade" },
+      { text: "Dar espaço e presença", value: "cumplicidade" },
+      { text: "Escolher-te de novo", value: "cumplicidade" }
+    ]
+  },
+  {
+    question: "120. Como imaginas a nossa relação no futuro?",
+    answers: [
+      { text: "Mais profunda emocionalmente", value: "cumplicidade" },
+      { text: "Sempre com surpresa e paixão", value: "cumplicidade" },
+      { text: "Com espaço e liberdade", value: "cumplicidade" },
+      { text: "A crescer juntos", value: "cumplicidade" },
+      { text: "Mais intensa sexualmente", value: "cumplicidade" }
+    ]
+  }
+];
