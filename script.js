@@ -155,6 +155,40 @@ function showFinalSummary() {
   finalSummaryText.textContent = finalResumo;
 }
 
+// Partilhar no WhatsApp
+document.getElementById("share-whatsapp").onclick = () => {
+  const texto = encodeURIComponent(
+    document.getElementById("final-summary-text").textContent ||
+    "Acabei de fazer o quiz 'Confissões a Dois'. Descobre também!"
+  );
+  const url = `https://wa.me/?text=${texto}`;
+  window.open(url, "_blank");
+};
+
+// Copiar resumo para a área de transferência
+document.getElementById("copy-link").onclick = () => {
+  const texto = document.getElementById("final-summary-text").textContent ||
+    "Este é o meu resultado no quiz 'Confissões a Dois'.";
+  
+  navigator.clipboard.writeText(texto).then(() => {
+    alert("Resumo copiado!");
+  }).catch(() => {
+    alert("Erro ao copiar o texto.");
+  });
+};
+
+// Enviar por Email (usando EmailJS — precisa de configuração no site EmailJS)
+document.getElementById("send-email").onclick = () => {
+  emailjs.send("default_service", "template_id", {
+    message: document.getElementById("final-summary-text").textContent,
+    to_email: "sirfilipevalverde@gmail.com"
+  }).then(() => {
+    alert("Email enviado com sucesso!");
+  }, (error) => {
+    alert("Erro ao enviar o email: " + error.text);
+  });
+};
+
 const questions = [
   {
     question: "1. O que mais fortalece a nossa ligação?",
